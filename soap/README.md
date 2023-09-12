@@ -1,0 +1,2 @@
+## What is SOAP (Simple Object Access Protocol)?
+SOAP (Simple Object Access Protocol) is a message protocol that enables the distributed elements of an application to communicate. SOAP can be carried over a variety of standard protocols, including the web-related Hypertext Transfer Protocol (HTTP).
